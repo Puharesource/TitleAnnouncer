@@ -1,0 +1,12 @@
+name: TitleAnnouncer
+version: 1.0.0
+author: Puharesource
+
+main: io.puharesource.mc.titleannouncer.Main
+depend: [TitleManager]
+
+commands:
+  ta:
+    description: TitleAnnouncer commands.
+    usage: /ta reload
+    aliases: [titleannouncer]

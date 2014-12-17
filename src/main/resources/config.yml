@@ -1,0 +1,18 @@
+config-version: 1
+
+settings:
+  hovering:
+    interval: 120
+    fade-in: 10
+    stay: 40
+    fade-out: 10
+  actionbar:
+    interval: 45
+
+messages:
+  hovering:
+  - '&2Some title\n&aSome subtitle'
+  - '&2Another title\n&aAnother subtitle'
+  actionbar:
+  - '&a&lSome actionbar title'
+  - '&a&lAnother actionbar title'
